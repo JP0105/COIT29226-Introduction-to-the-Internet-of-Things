@@ -25,6 +25,9 @@ The protocols such as MQTT, HTTP, and CoAP are used to transfer data between dev
 
 The services provided by ThingsBoard include dashboards, rule engine, analytics, alarms, and device management. These help process, monitor, and display the collected data. In the 3-layer model, these are included in the application layer. In the 5-layer model, they are mainly part of the processing and application layers.
 
+<img width="1918" height="873" alt="thingsboard dashboard" src="https://github.com/user-attachments/assets/23ceb279-007c-4ae6-ba2b-4eac170d3f81" />
+
+
 ---
 
 ## Task 3: IoT Applications I Use in Daily Life
