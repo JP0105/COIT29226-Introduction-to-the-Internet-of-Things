@@ -28,15 +28,18 @@ The CQU sensors are useful for learning and basic data collection, but alternati
 
 ## Images of Devices  
 
-![Soil Moisture Sensor](images/moisture-sensor.png)  
+<img width="563" height="670" alt="soil senser" src="https://github.com/user-attachments/assets/aa1ca218-be67-433b-9b68-a76a0bb78a4c" />
+  
 
 This image shows the soil moisture sensor, which is used to measure the water content in soil. It helps in monitoring soil conditions for agriculture.  
 
-![Weather Sensor](images/weather-sensor.png)  
+<img width="722" height="698" alt="weather sensor" src="https://github.com/user-attachments/assets/4a05cd3a-a544-4fff-b034-a9d695bf0fc2" />
+ 
 
 This image shows the local weather sensor that collects data like temperature, humidity, and air pressure from the environment.  
 
-![LoRaWAN Gateway](images/gateway.png)  
+<img width="412" height="770" alt="loRaWAN Gateaway" src="https://github.com/user-attachments/assets/4a0785ef-7bda-44b5-9f67-e65378009570" />
+
 
 This image shows the LoRaWAN gateway, which collects data from sensors and sends it to the cloud or server for processing.  
 
